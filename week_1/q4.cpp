@@ -1,10 +1,3 @@
-/*******************************************************************
-Filename = q4
-Author = Kaya Turgut
-Date = 3.10.2020
-Description = Fourth question related to find maximum one of three integers
-*******************************************************************/
-
 //includes input/output header to use "cin/cout" funtion
 #include<iostream>
 

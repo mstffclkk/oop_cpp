@@ -1,10 +1,3 @@
-/*******************************************************************
-Filename = q5
-Author = Kaya Turgut
-Date = 3.10.2020
-Description = Fifth question related to valiade if the account is legal or not.
-*******************************************************************/
-
 //includes input/output header to use "cin/cout" funtion
 #include<iostream>
 
